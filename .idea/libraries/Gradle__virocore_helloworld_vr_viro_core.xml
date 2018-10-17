@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: virocore-helloworld-vr:viro_core">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/cb161ff10399c0668983ab4062eeaf229f14240f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/cb161ff10399c0668983ab4062eeaf229f14240f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

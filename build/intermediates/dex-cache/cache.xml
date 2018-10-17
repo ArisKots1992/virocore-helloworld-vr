@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb-mapper\2.2.22\57538cc0c8d6f9279d94aa347fb1a90f68592719\aws-android-sdk-ddb-mapper-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57538cc0c8d6f9279d94aa347fb1a90f68592719">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\aws-android-sdk-ddb-mapper-2.2.22_01151fa7d447f59a10179da1b6faa2475c37d31f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.22\c6789de00db9d1f93faec881fa0c1f5960fb8a15\aws-android-sdk-core-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\aws-android-sdk-core-2.2.22_c7f75c0d85bef7457e40120ef62c19320147ed18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\8278ec51d0d117dac30ff743cefd02c6ec71872c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="31ead391552fc8d93a7b87b0f15e83755b908904">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_27f8cdca0700391c4331634c198fc9b0a0cc60da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\7dea02428c2fe3c0ec3d4ceef55a2930dac745c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_2225de18ea6ef44f70b8f9dc7b7e357532722e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\a5477da79feedaf4127e880a7cae5f884b73ad07\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\internal_impl-25.0.0_44930d762720c12df85aa5feb1212a2b4c874a08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.2.22\40fe82092e0ae3ca549b132a1e7e876807525176\aws-android-sdk-s3-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\aws-android-sdk-s3-2.2.22_cb4a48e1a5dd96bcfb483e602d7f2b95484c0a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\support-annotations-25.0.1_871b397c1c20f0255bb5f7bd99cd7b2db990ed38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\gson-2.2.4_0304c43e4dfd217285bb894e2188c728f28175d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.gradle\caches\modules-2\files-2.1\com.google.protobuf.nano\protobuf-javanano\3.0.0-alpha-7\52587934797e3433992a9d69178a1471e4a8f85d\protobuf-javanano-3.0.0-alpha-7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="52587934797e3433992a9d69178a1471e4a8f85d">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\protobuf-javanano-3.0.0-alpha-7_0448c9f061abc24fedc9a6bbec43be7ffb62b13a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\32a73b996c456bdc6e402445c29c22a7ec539020\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_057067751f52bee45c1fdaf19d321e0100523466.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\caeb83fcd69449c527d56a282a61f48e9c9a8255\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_9f0667c63f1a1cd9241dea08e684a9a041a52aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\0f1015a6c7706470af95d7b597954ceeebe9615a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_22908d10e3943aa45ffcfd6fb684cb259c1eaf39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-ddb\2.2.22\a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549\aws-android-sdk-ddb-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\aws-android-sdk-ddb-2.2.22_1cf571f24597c9665bbcc3d4eab610d2ab3b8b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\7a386d8d7a99ca8e02b03519e1c826bd6bdcf546\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\internal_impl-25.0.0_d295f4095f786bdf711dbf98b163e75d2ea4aa5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\1a67eb943baa6a01720906adf827f80bbb006739\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_3adf7e6682fbadd61ca3ba7491b4ba8e4193556d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\cb161ff10399c0668983ab4062eeaf229f14240f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="33d463819bf05c60091bb53a5290ada01761038b">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_e5299e210449ae90134caca4e3ad59c8d70db22f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\b843722a017e884eb997fd4c57b0f98bf30dd5e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6708d52cbc1c71eec3f91a2cf8fec59592c6350">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_c64c8eeaf574047db69a0acd33b93a08bb383ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\a5477da79feedaf4127e880a7cae5f884b73ad07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_0898d5cf0129b20bda0de8c2d31d636041283a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\9f0af9e37608e8c3cc93ebfed6ca5eb58a057d43\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\internal_impl-25.0.0_d9efe47c63bac1352e49dd880a2e07e480799ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognitoidentityprovider\2.2.22\6ddcf148b81c8a388d17964d78cf3e26f0ae9bc\aws-android-sdk-cognitoidentityprovider-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="06ddcf148b81c8a388d17964d78cf3e26f0ae9bc">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\aws-android-sdk-cognitoidentityprovider-2.2.22_88b75e50794cf0c7f2a78d17496962160b9e5a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-cognito\2.2.22\9bef9beddb1b7579713905702d8219d516bd3954\aws-android-sdk-cognito-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bef9beddb1b7579713905702d8219d516bd3954">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\aws-android-sdk-cognito-2.2.22_0f71cf3b96ad1a1aeb55be2220b9298f5bc295b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\395f6e646f529dfa84536fcfb86122f2c4092c3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1bdf1c662489164112ea64181ba0df59970899af">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_0ef01ec96ac0a06f52d4d101e8331ab12c91f783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\e9700e29b08ad7a7a9423f2c603e4b00f120170f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_c1be008f77459004cba1916a6c3dc49be9c74af2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\5664569a1348e9cda18f373bb8c9d93a9d85e3bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_7760b3f8e4a6bb8af5cab33c269faab20f3ed016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\7dea02428c2fe3c0ec3d4ceef55a2930dac745c2\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\internal_impl-25.0.0_077a66d621144c8e86e595105b4e9b29a7faa050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\constraint-layout-solver-1.0.2_3e7ffbf60014f1b5b86111603d153724d96db1dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\7a386d8d7a99ca8e02b03519e1c826bd6bdcf546\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_06a9e6a694d293208e3dd19149fd122c122e8503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\9f0af9e37608e8c3cc93ebfed6ca5eb58a057d43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\classes_ae6788bca84255e534ec6178aa6b8d101834487b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aris\.android\build-cache\0f1015a6c7706470af95d7b597954ceeebe9615a\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Aris\Desktop\virocore-helloworld\virocore-helloworld\virocore-helloworld-vr\app\build\intermediates\pre-dexed\gvr\debug\internal_impl-25.0.0_6147e6c4f1f30d1c8fe5d23fcd7ad3da7ac9ab95.jar" />
+    </item>
+
+</items>
